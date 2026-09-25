@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.tzzyfz88.com/sitemap.xml
